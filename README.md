@@ -2,12 +2,13 @@
 ![test](https://github.com/Ichiyou1922/robosys2025/actions/workflows/test.yml/badge.svg)
 ## プログラムの内容  
 - 標準入力から入力された数値を和算する．
-## 使い方
-- ダウンロード方法
-  - $ git clone git@github.com:Ichiyou1922/robosys2025.git
-- 使い方
-  - 標準入力から幾つかの整数をプログラムに送る．
-  - 例: $ seq 5 | ./plus
+## 使い方(簡易)
+```bash
+$ git clone git@github.com:Ichiyou1922/robosys2025.git
+$ cd robosys2025
+$ seq 5 | ./plus
+15
+```
 ## 必要なソフトウェア
 - Python
   - テスト済みバージョン: 3.7~3.10
