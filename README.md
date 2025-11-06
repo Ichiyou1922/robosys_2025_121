@@ -1,7 +1,7 @@
 # plusコマンド
 ![test](https://github.com/Ichiyou1922/robosys2025/actions/workflows/test.yml/badge.svg)
 ## プログラムの内容  
-- 標準入力から入力された整数を和算する．
+- 標準入力から入力された数値を和算する．
 ## 使い方
 - ダウンロード方法
   - $ git clone git@github.com:Ichiyou1922/robosys2025.git
